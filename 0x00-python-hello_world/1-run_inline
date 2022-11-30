@@ -1,0 +1,4 @@
+#!/bin/bash
+python3 -c "$PYCODE"
+Footer
+© 2022 GitHub, Inc.
