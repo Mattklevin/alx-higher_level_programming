@@ -1,4 +1,3 @@
- 3.39 KB
 #!/usr/bin/python3
 # 9-rectangle.py
 """Defines a Rectangle class."""
