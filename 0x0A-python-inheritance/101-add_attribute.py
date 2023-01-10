@@ -1,20 +1,3 @@
-
-Adinoyi03
-/
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x0A-python-inheritance/101-add_attribute.py
-@Adinoyi03
-Adinoyi03 make the files executable
- 1 contributor
-Executable File  16 lines (14 sloc)  521 Bytes
 #!/usr/bin/python3
 """Defines a function that adds attributes to objects."""
 
